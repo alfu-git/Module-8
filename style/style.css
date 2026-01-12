@@ -104,17 +104,6 @@ section.layout-design h1{
 }
 }
 
-@media screen and (min-width: 1441px) and (max-width: 2560px) {
-  section.layout-design h1{
-    font-size: 5em;
-    margin-bottom: 80px;
-  }
-  .ld-content{
-    gap: 20px;
-    grid-template-columns: repeat(4, 300px);
-    grid-template-rows: repeat(3, 300px) 80px 80px;
-}
-}
 
 /* body layout */
 section.body-layout{
